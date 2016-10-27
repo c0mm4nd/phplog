@@ -1,0 +1,19 @@
+{
+    "name": "maoxs2/log",
+    "description": "the Log library with the EASE of use",
+    "type": "library",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Command M",
+            "email": "maoxs2@163.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload":{
+        "classmap": [
+            "src"
+        ]
+    }
+}
