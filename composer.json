@@ -3,6 +3,7 @@
     "description": "the Log library with the EASE of use",
     "type": "library",
     "license": "WTFPL",
+    "keywords" : ["PHP", "API", "light", "framework"],
     "authors": [
         {
             "name": "Command M",
@@ -10,6 +11,7 @@
         }
     ],
     "require": {
+    	"php" : ">=5.3.0",
     },
     "autoload":{
         "classmap": [
